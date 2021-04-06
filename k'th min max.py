@@ -6,7 +6,7 @@ Find the "Kth" max and min element of an array
 print("\n ---------- Find the Kth max and min element of an array ---------")
 
 k = 1
-
+a = [1,32,6,4,78,9,21,5]
 # Method 1 : using sorting
 
 a.sort()
