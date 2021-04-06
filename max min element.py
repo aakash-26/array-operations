@@ -3,6 +3,7 @@
 Find the maximum and minimum element in an array (without sorting)
 """
 print("\n ---------- Find the maximum and minimum element in an array (without sorting) ---------")
+a = [1,32,6,4,78,9,21,5]
 
 mn = a[0]
 mx = a[0]
